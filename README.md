@@ -15,13 +15,13 @@ GitHub 仓库：[gakiyukr/cod19-dmz-wiki (github.com)](https://github.com/gakiyu
 
 ## 导航
 
-马兹拉：[传送门](https://cod19-dmz-wiki.vercel.app/img/al-mazrah-map.png)
+马兹拉：[传送门](https://dmz-wiki.96110.jp/img/al-mazrah-map.png)
 
-海狮岛：[传送门](https://cod19-dmz-wiki.vercel.app/img/ashika-island-map.png)
+海狮岛：[传送门](https://dmz-wiki.96110.jp/img/ashika-island-map.png)
 
-冯德尔：[传送门](https://cod19-dmz-wiki.vercel.app/img/Vondel-map.png)
+冯德尔：[传送门](https://dmz-wiki.96110.jp/img/Vondel-map.png)
 
-21 号楼：[传送门](https://cod19-dmz-wiki.vercel.app/img/21-map.png)
+21 号楼：[传送门](https://dmz-wiki.96110.jp/img/21-map.png)
 
 工业园：暂无
 
